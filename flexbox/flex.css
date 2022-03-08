@@ -1,0 +1,23 @@
+.container { 
+    display: flex ; 
+    align-items: center;
+    justify-content: center;
+}
+
+.number{
+        border: 2px solid black;
+        display: flex; 
+        align-items: center;
+        justify-content: center;
+        width: 50px;
+
+}
+
+.column {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center; 
+    justify-content: center;
+    height: 50vh;
+    width: 33%;
+}
